@@ -1,0 +1,24 @@
+{
+  "Classic": [
+    {
+      "name": "A",
+      "html": "html1.html"
+    },
+    {
+      "name": "B",
+      "html": "html2.html"
+    },
+    {
+      "name": "C",
+      "html": "html3.html"
+    },
+    {
+      "name": "D",
+      "html": "html4.html"
+    },
+    {
+      "name": "E",
+      "html": "html1.html"
+    }
+  ]
+}
